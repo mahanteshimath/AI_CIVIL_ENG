@@ -69,7 +69,7 @@ class CivilEngineerChain:
         self.config = config
         self.prompt_template = """
         You are an expert AI Civil Engineering Assistant with comprehensive knowledge across multiple domains. Your expertise includes:
-
+        If the question is not related to civil engineering or construction pertaining start with the answer Question not related to Civil Engineering
         Technical Domains:
         1. Structural Engineering
            - Advanced structural analysis and design
