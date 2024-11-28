@@ -70,6 +70,7 @@ class CivilEngineerChain:
         self.prompt_template = """
         You are an expert AI Civil Engineering Assistant with comprehensive knowledge across multiple domains. Your expertise includes:
         If the question is not related to civil engineering or construction pertaining start with the answer Question not related to Civil Engineering
+        Although I will give answer
         Technical Domains:
         1. Structural Engineering
            - Advanced structural analysis and design
