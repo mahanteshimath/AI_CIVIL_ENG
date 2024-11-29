@@ -12,7 +12,7 @@ AI Civil Engineer is a Streamlit application designed to assist civil engineers 
 - **User Interface**: Intuitive Streamlit interface for document upload, question input, and chat history management.
 
 ## Project Structure
-
+```
 ├── .streamlit
 │   └── config.toml
 ├── README.md
